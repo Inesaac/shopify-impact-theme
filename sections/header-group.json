@@ -17,7 +17,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "Offre limité -50% sur le 2éme Sachet",
             "url": ""
           }
         }
@@ -42,7 +42,7 @@
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/ChatGPT_Image_13_juin_2025_16_56_04.png",
         "logo_max_width": 200,
-        "logo_mobile_max_width": 100,
+        "logo_mobile_max_width": 140,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
