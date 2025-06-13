@@ -44,11 +44,11 @@
             "link": ""
           }
         },
-        "logo_eiawtA": {
+        "logo_bhDQ4L": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_8.jpg",
-            "logo_width": 260,
+            "logo": "shopify://shop_images/les_maternelles.webp",
+            "logo_width": 120,
             "link": ""
           }
         }
@@ -56,7 +56,7 @@
       "block_order": [
         "logo_XHELH7",
         "logo_M7Fxzd",
-        "logo_eiawtA"
+        "logo_bhDQ4L"
       ],
       "settings": {
         "full_width": true,
