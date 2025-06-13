@@ -14,6 +14,13 @@
     "announcement-bar": {
       "type": "announcement-bar",
       "blocks": {
+        "message_BmBhWW": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement 100% Sécurisé",
+            "url": ""
+          }
+        },
         "message": {
           "type": "message",
           "settings": {
@@ -23,6 +30,7 @@
         }
       },
       "block_order": [
+        "message_BmBhWW",
         "message"
       ],
       "settings": {
