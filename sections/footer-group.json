@@ -75,6 +75,48 @@
         "logo_item_border": ""
       }
     },
+    "rich_text_tw7387": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_JKkWFC": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir  Sereni'tea?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_JKkWFC"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_Law8Gm": {
+      "type": "image-with-text-overlay",
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-06-13_221911.png",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -111,6 +153,8 @@
   "order": [
     "text-with-icons",
     "logo_list_9mP3KT",
+    "rich_text_tw7387",
+    "image_with_text_overlay_Law8Gm",
     "footer"
   ]
 }
