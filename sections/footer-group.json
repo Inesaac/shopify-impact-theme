@@ -89,7 +89,7 @@
         "richtext_Fd9wKW": {
           "type": "richtext",
           "settings": {
-            "content": "<p>Notre <strong>tisane anti hémorroïdes</strong>  agit à tous les niveaux du capital veineux du corps et tout particulièrement au niveau anal.</p><p>La <strong>tisane</strong> <strong>Hemotea</strong> est un mélange de plantes qui permet d’agir :</p><p>en preventif et <strong>d’éviter</strong> une <strong>crise</strong> <strong>d’hémorroïdes</strong></p><p>en curatif pour soulager une crise <strong>d’hémorroïdes</strong> déclarée.</p><p> La tisane Hemotea peut parfaitement être utilisée en cas de saignement : son effet astringent permettra de resserrer les tissus et de diminuer l’ecoulement sanguin.</p>"
+            "content": "<p></p><h5>La <strong>tisane</strong> <strong>Hemotea</strong> est un mélange de plantes qui permet d’agir :en preventif et <strong>d’éviter</strong> une <strong>crise</strong> <strong>d’hémorroïdes</strong>en curatif pour soulager une crise <strong>d’hémorroïdes</strong> déclarée.</h5><p> La tisane Hemotea peut parfaitement être utilisée en cas de saignement : son effet astringent permettra de resserrer les tissus et de diminuer l’ecoulement sanguin.</p>"
           }
         },
         "heading_JKkWFC": {
@@ -122,7 +122,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_14.jpg",
+        "image": "shopify://shop_images/Design_sans_titre_12.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -191,7 +191,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/C58F881F-75A9-4D3B-A706-18A289C47512.png",
+        "image": "shopify://shop_images/A01C73C7-BCE9-4E05-B4B8-D85FD0530958.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -206,7 +206,7 @@
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Marc_avis.png",
-            "column_size": "3",
+            "column_size": "4",
             "title": "",
             "heading_tag": "h4",
             "content": "",
@@ -254,7 +254,7 @@
         "gap": "medium",
         "text_alignment": "start",
         "subheading": "",
-        "title": "Nos client en parlent mieux",
+        "title": "Ce que disent nos clients:",
         "content": "",
         "background": "",
         "background_gradient": "",
