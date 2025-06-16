@@ -114,6 +114,68 @@
         "overlay_opacity": 0
       }
     },
+    "multi_column_LcmeYw": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Xw3qnH": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Marc_avis.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xidNQ3": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Sophie_avis.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_BV9hVa": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Nadia_avis.png",
+            "column_size": "3",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Xw3qnH",
+        "item_xidNQ3",
+        "item_BV9hVa"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "Nos client en parlent mieux",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -152,6 +214,7 @@
     "logo_list_9mP3KT",
     "rich_text_tw7387",
     "image_with_text_overlay_Law8Gm",
+    "multi_column_LcmeYw",
     "footer"
   ]
 }
