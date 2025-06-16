@@ -15,7 +15,7 @@
         "subheading_c6crBF": {
           "type": "subheading",
           "settings": {
-            "text": "Sereni'Tea - Infusion naturelle pour votre confort intime"
+            "text": "Hémotea  - Infusion naturelle pour votre confort intime"
           }
         }
       },
@@ -32,7 +32,7 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 18
+        "overlay_opacity": 0
       }
     }
   },
