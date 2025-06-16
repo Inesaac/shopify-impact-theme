@@ -44,6 +44,14 @@
             "link": ""
           }
         },
+        "logo_D64Edi": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/image0.png",
+            "logo_width": 120,
+            "link": ""
+          }
+        },
         "logo_bhDQ4L": {
           "type": "logo",
           "settings": {
@@ -56,6 +64,7 @@
       "block_order": [
         "logo_XHELH7",
         "logo_M7Fxzd",
+        "logo_D64Edi",
         "logo_bhDQ4L"
       ],
       "settings": {
