@@ -122,7 +122,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_12.png",
+        "image": "shopify://shop_images/Design_sans_titre_15.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -191,7 +191,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/A01C73C7-BCE9-4E05-B4B8-D85FD0530958.png",
+        "image": "shopify://shop_images/Design_sans_titre_17.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -261,6 +261,107 @@
         "text_color": ""
       }
     },
+    "featured_product_pzMUh6": {
+      "type": "featured-product",
+      "blocks": {
+        "vendor_WC6f4M": {
+          "type": "vendor",
+          "settings": {}
+        },
+        "title_BUqA9V": {
+          "type": "title",
+          "settings": {
+            "heading_tag": "h2"
+          }
+        },
+        "badges_4tTcwW": {
+          "type": "badges",
+          "settings": {}
+        },
+        "price_keTEDn": {
+          "type": "price",
+          "settings": {
+            "show_taxes_notice": false
+          }
+        },
+        "rating_xFmy34": {
+          "type": "rating",
+          "settings": {
+            "show_empty": false
+          }
+        },
+        "separator_jpcU4Q": {
+          "type": "separator",
+          "settings": {}
+        },
+        "description_bt9wbc": {
+          "type": "description",
+          "settings": {
+            "collapse_content": false
+          }
+        },
+        "variant_picker_fCUUiE": {
+          "type": "variant_picker",
+          "settings": {
+            "hide_sold_out_variants": false,
+            "stack_blocks": true,
+            "selector_mode": "block",
+            "color_mode": "color",
+            "size_chart_page": ""
+          }
+        },
+        "quantity_selector_yEhbk7": {
+          "type": "quantity_selector",
+          "settings": {}
+        },
+        "buy_buttons_rpcdWy": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_payment_button": true,
+            "show_gift_card_recipient": true,
+            "atc_button_background": "",
+            "atc_button_text_color": "",
+            "payment_button_background": "",
+            "payment_button_text_color": ""
+          }
+        },
+        "pickup_availability_fLmE7D": {
+          "type": "pickup_availability",
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "vendor_WC6f4M",
+        "title_BUqA9V",
+        "badges_4tTcwW",
+        "price_keTEDn",
+        "rating_xFmy34",
+        "separator_jpcU4Q",
+        "description_bt9wbc",
+        "variant_picker_fCUUiE",
+        "quantity_selector_yEhbk7",
+        "buy_buttons_rpcdWy",
+        "pickup_availability_fLmE7D"
+      ],
+      "name": "Featured product",
+      "settings": {
+        "full_width": true,
+        "product": "tisane-pour-soulagement-des-hemorroides",
+        "desktop_media_width": 55,
+        "desktop_media_layout": "carousel_thumbnails_left",
+        "mobile_media_size": "expanded",
+        "mobile_carousel_control": "floating_dots",
+        "enable_video_autoplay": true,
+        "enable_video_looping": false,
+        "enable_image_zoom": true,
+        "max_image_zoom_level": 3,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "input_background": "rgba(0,0,0,0)",
+        "input_text_color": ""
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -302,6 +403,7 @@
     "image_with_text_overlay_xmTxQE",
     "image_with_text_overlay_dMHEgP",
     "multi_column_LcmeYw",
+    "featured_product_pzMUh6",
     "footer"
   ]
 }
