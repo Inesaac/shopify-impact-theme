@@ -25,6 +25,22 @@
         "text_color": ""
       }
     },
+    "scrolling_text_LkxLGG": {
+      "type": "scrolling-text",
+      "name": "Scrolling text",
+      "settings": {
+        "full_width": true,
+        "text": "Decouvrez Hemotea ,l'infusion qui vous veux du bien",
+        "text_size": "xsmall",
+        "text_style": "fill",
+        "scrolling_mode": "auto",
+        "scrolling_speed": 10,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "text_gradient": ""
+      }
+    },
     "image_with_text_overlay_CQxt3r": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -422,6 +438,7 @@
   },
   "order": [
     "text-with-icons",
+    "scrolling_text_LkxLGG",
     "image_with_text_overlay_CQxt3r",
     "logo_list_9mP3KT",
     "rich_text_tw7387",

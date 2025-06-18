@@ -11,17 +11,6 @@
   "sections": {
     "image_with_text_overlay_KQydHz": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_c6crBF": {
-          "type": "subheading",
-          "settings": {
-            "text": "Hémotea  - Infusion naturelle pour votre confort intime"
-          }
-        }
-      },
-      "block_order": [
-        "subheading_c6crBF"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
