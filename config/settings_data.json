@@ -143,6 +143,15 @@
     }
   },
   "platform_customizations": {
-    "custom_css": []
+    "custom_css": [
+      "/* Corps de page */body {background-color: #F9F5F0; color: #333333; font-size: 16px;}",
+      "/* Titres */h1, h2, h3, h4 {color: #5E418C;}",
+      "/* Liens */a {color: #7B5BA8;}",
+      "a:hover {color: #5E418C;}",
+      "/* Boutons */button, .button, .btn {background-color: #7B5BA8; color: white; border: none; border-radius: 6px; padding: 10px 20px; font-weight: 600;}",
+      "button:hover, .button:hover, .btn:hover {background-color: #5E418C;}",
+      "/* Badges ou pictos végétaux */.icon-leaf, .icon-eco {color: #8DA284;}",
+      "/* Zones d’information ou encadrés doux */.alert-box, .info-box {background-color: #FBFAF7; border-left: 4px solid #A6545A; padding: 10px; color: #333;}"
+    ]
   }
 }
