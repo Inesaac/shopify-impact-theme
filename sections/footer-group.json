@@ -290,6 +290,18 @@
           "type": "separator",
           "settings": {}
         },
+        "liquid_bwG96F": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<div style=\"background-color:#fff5f5; border:1px solid #ffcccc; padding:15px; text-align:center; border-radius:8px; margin:20px 0;\">\n  <h3 style=\"color:#c0392b; font-weight:bold; margin-bottom:10px;\">\n    ⚠️ Attention : stock presque épuisé !\n  </h3>\n  <p style=\"margin-bottom:15px; font-size:0.95rem;\">\n    Il ne reste que 5 <strong>{{ product.variants.first.inventory_quantity }}</strong> exemplaires en stock. Ne ratez pas votre infusion Hemotea 🍵\n  </p>\n  <div id=\"urgency-timer\" style=\"font-size:1.2rem; color:#e74c3c; font-weight:bold;\"></div>\n</div>\n\n<script>\n  function countdownTimer(duration, display) {\n    var timer = duration, minutes, seconds;\n    setInterval(function () {\n      minutes = parseInt(timer / 60, 10);\n      seconds = parseInt(timer % 60, 10);\n\n      minutes = minutes < 10 ? \"0\" + minutes : minutes;\n      seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n      display.textContent = \"Offre réservée encore : \" + minutes + \":\" + seconds;\n\n      if (--timer < 0) {\n        timer = duration; // recommence la boucle\n      }\n    }, 1000);\n  }\n\n  window.onload = function () {\n    var fiveMinutes = 60 * 5,\n        display = document.getElementById('urgency-timer');\n    countdownTimer(fiveMinutes, display);\n  };\n</script>"
+          }
+        },
+        "liquid_a8NP8m": {
+          "type": "liquid",
+          "settings": {
+            "liquid": ""
+          }
+        },
         "description_bt9wbc": {
           "type": "description",
           "settings": {
@@ -332,6 +344,8 @@
         "price_keTEDn",
         "rating_xFmy34",
         "separator_jpcU4Q",
+        "liquid_bwG96F",
+        "liquid_a8NP8m",
         "description_bt9wbc",
         "variant_picker_fCUUiE",
         "quantity_selector_yEhbk7",
