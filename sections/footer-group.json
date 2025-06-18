@@ -112,7 +112,7 @@
           "type": "heading",
           "settings": {
             "text": "Pourquoi choisir  Hemotea?",
-            "heading_tag": "h1",
+            "heading_tag": "h4",
             "text_color": "",
             "gradient": ""
           }
