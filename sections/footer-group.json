@@ -32,7 +32,7 @@
         "full_width": true,
         "text": "Découvrez Hemotea,l'infusion qui vous veux du bien.",
         "text_size": "xsmall",
-        "text_style": "fill",
+        "text_style": "outline",
         "scrolling_mode": "auto",
         "scrolling_speed": 10,
         "background": "",
