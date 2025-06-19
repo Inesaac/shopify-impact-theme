@@ -833,7 +833,34 @@
       "no_slider": "Kein Schieberegler"
     },
     "Newsletter": {
-      "err_msg_default": "E-Mail kann nicht gesendet werden. Bitte versuchen Sie es später noch einmal."
+      "err_msg_default": "E-Mail kann nicht gesendet werden. Bitte versuchen Sie es später noch einmal.",
+      "success_msg_default": "Vielen Dank für Ihre Kontaktaufnahme. Wir werden uns schnellstmöglich bei Ihnen melden."
+    },
+    "IconListV2": {
+      "icons_not_found": "Symbole nicht gefunden"
+    },
+    "IconList": {
+      "icons_not_found": "Symbole nicht gefunden"
+    },
+    "IconListHoz": {
+      "icons_not_found": "Symbole nicht gefunden"
+    },
+    "Product": {
+      "product_not_found": "Produkt nicht gefunden"
+    },
+    "ProductList": {
+      "product_not_found": "Produkt nicht gefunden!",
+      "no_products_found": "Keine Produkte gefunden!",
+      "no_related_products": "Keine verwandten Produkte!"
+    },
+    "ProductTitle": {
+      "product_not_found": "Produkt nicht gefunden"
+    },
+    "ProductVariants": {
+      "please_select": "Bitte wählen Sie eine Option"
+    },
+    "StockCounter": {
+      "let_buy_now": "<mark>BEEIL DICH!</mark> JETZT KAUFEN"
     }
   }
 }
