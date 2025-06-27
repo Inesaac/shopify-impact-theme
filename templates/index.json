@@ -24,39 +24,9 @@
         "overlay_color": "#000000",
         "overlay_opacity": 0
       }
-    },
-    "image_with_text_overlay_kYChLU": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "heading_cAeiBY": {
-          "type": "heading",
-          "settings": {
-            "text": "Soulager vos douleurs aux genoux en quelques minutes",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "heading_cAeiBY"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/gempages_572047636916339936-35ca5a22-0b48-40f8-a7a7-9388b6979e9a.png",
-        "mobile_image": "shopify://shop_images/gempages_572047636916339936-3e0f442d-4d13-48bf-a68c-04b7ec417345.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
     }
   },
   "order": [
-    "image_with_text_overlay_KQydHz",
-    "image_with_text_overlay_kYChLU"
+    "image_with_text_overlay_KQydHz"
   ]
 }
