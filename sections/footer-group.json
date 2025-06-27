@@ -25,22 +25,6 @@
         "text_color": ""
       }
     },
-    "scrolling_text_LkxLGG": {
-      "type": "scrolling-text",
-      "name": "Scrolling text",
-      "settings": {
-        "full_width": true,
-        "text": "Découvrez Hemotea,l'infusion qui vous veux du bien.",
-        "text_size": "xsmall",
-        "text_style": "outline",
-        "scrolling_mode": "auto",
-        "scrolling_speed": 10,
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "text_gradient": ""
-      }
-    },
     "image_with_text_overlay_CQxt3r": {
       "type": "image-with-text-overlay",
       "name": "Image with text overlay",
@@ -49,7 +33,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/mockup.png",
+        "image": "shopify://shop_images/gempages_572047636916339936-3e0f442d-4d13-48bf-a68c-04b7ec417345.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -63,7 +47,7 @@
         "logo_XHELH7": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Design_sans_titre_11.jpg",
+            "logo": "shopify://shop_images/gempages_572047636916339936-b97ab235-3569-41fc-adb6-b0a598d7169f.jpg",
             "logo_width": 200,
             "link": ""
           }
@@ -71,7 +55,7 @@
         "logo_M7Fxzd": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/psychologies-books_tag_html1.png",
+            "logo": "shopify://shop_images/gempages_572047636916339936-dfacf5c9-5102-4c64-9d72-a4c42e24e0b5.png",
             "logo_width": 240,
             "link": ""
           }
@@ -79,7 +63,7 @@
         "logo_D64Edi": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/image0.png",
+            "logo": "shopify://shop_images/gempages_572047636916339936-810e4f4e-3693-44db-8867-2162869403ec.jpg",
             "logo_width": 120,
             "link": ""
           }
@@ -87,8 +71,8 @@
         "logo_bhDQ4L": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/les_maternelles.webp",
-            "logo_width": 120,
+            "logo": "shopify://shop_images/gempages_572047636916339936-0ed0ae61-79a5-4f49-a8e4-582ab7accc62.jpg",
+            "logo_width": 250,
             "link": ""
           }
         }
@@ -102,7 +86,7 @@
       "settings": {
         "full_width": true,
         "stack_mobile": true,
-        "title": "Recommandé par :",
+        "title": "Vu sur :",
         "content": "",
         "text_alignment": "start",
         "items_per_row": 5,
@@ -121,13 +105,13 @@
         "richtext_Fd9wKW": {
           "type": "richtext",
           "settings": {
-            "content": "<h5>La <strong>tisane</strong> <strong>Hemotea</strong> est un mélange de plantes qui permet d’agir : </h5><h5>en preventif et <strong>d’éviter</strong> une <strong>crise</strong> <strong>d’hémorroïdes </strong></h5><h5>en curatif pour soulager une crise <strong>d’hémorroïdes</strong> déclarée.</h5><p> La tisane Hemotea peut parfaitement être utilisée en cas de saignement : son effet astringent permettra de resserrer les tissus et de diminuer l’ecoulement sanguin.</p>"
+            "content": ""
           }
         },
         "heading_JKkWFC": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi choisir  Hemotea?",
+            "text": "Pourquoi choisir  Thermogen?",
             "heading_tag": "h3",
             "text_color": "",
             "gradient": ""
@@ -145,21 +129,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "image_with_text_overlay_Law8Gm": {
-      "type": "image-with-text-overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_15.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
       }
     },
     "image_with_text_overlay_xmTxQE": {
@@ -196,101 +165,12 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/C0E72A94-45A4-4BD1-A804-4A121FB3BEF2.png",
+        "image": "shopify://shop_images/Capture_d_ecran_2025-06-27_191532.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
         "overlay_opacity": 0
-      }
-    },
-    "image_with_text_overlay_dMHEgP": {
-      "type": "image-with-text-overlay",
-      "blocks": {
-        "subheading_KqXpdt": {
-          "type": "subheading",
-          "settings": {
-            "text": ""
-          }
-        }
-      },
-      "block_order": [
-        "subheading_KqXpdt"
-      ],
-      "name": "Image with text overlay",
-      "settings": {
-        "full_width": true,
-        "allow_transparent_header": false,
-        "enable_parallax": false,
-        "image_size": "auto",
-        "image": "shopify://shop_images/Design_sans_titre_17.png",
-        "mobile_text_position": "place-self-center text-center",
-        "desktop_text_position": "sm:place-self-center sm:text-center",
-        "text_color": "#ffffff",
-        "overlay_color": "#000000",
-        "overlay_opacity": 0
-      }
-    },
-    "multi_column_LcmeYw": {
-      "type": "multi-column",
-      "blocks": {
-        "item_Xw3qnH": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Marc_avis.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_xidNQ3": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Sophie_avis.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_BV9hVa": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Nadia_avis.png",
-            "column_size": "3",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_Xw3qnH",
-        "item_xidNQ3",
-        "item_BV9hVa"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "Ce que disent nos clients:",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "featured_product_pzMUh6": {
@@ -299,7 +179,7 @@
         "title_BUqA9V": {
           "type": "title",
           "settings": {
-            "heading_tag": "h2"
+            "heading_tag": "h4"
           }
         },
         "badges_4tTcwW": {
@@ -322,12 +202,6 @@
           "type": "separator",
           "settings": {}
         },
-        "liquid_bwG96F": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div style=\"background-color:#fff5f5; border:1px solid #ffcccc; padding:15px; text-align:center; border-radius:8px; margin:20px 0;\">\n  <h3 style=\"color:#c0392b; font-weight:bold; margin-bottom:10px;\">\n    ⚠️ Attention : stock presque épuisé !\n  </h3>\n  <p style=\"margin-bottom:15px; font-size:0.95rem;\">\n    Il ne reste que 5 <strong>{{ product.variants.first.inventory_quantity }}</strong> exemplaires en stock. Ne ratez pas votre infusion Hemotea 🍵\n  </p>\n  <div id=\"urgency-timer\" style=\"font-size:1.2rem; color:#e74c3c; font-weight:bold;\"></div>\n</div>\n\n<script>\n  function countdownTimer(duration, display) {\n    var timer = duration, minutes, seconds;\n    setInterval(function () {\n      minutes = parseInt(timer / 60, 10);\n      seconds = parseInt(timer % 60, 10);\n\n      minutes = minutes < 10 ? \"0\" + minutes : minutes;\n      seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n      display.textContent = \"Offre réservée encore : \" + minutes + \":\" + seconds;\n\n      if (--timer < 0) {\n        timer = duration; // recommence la boucle\n      }\n    }, 1000);\n  }\n\n  window.onload = function () {\n    var fiveMinutes = 60 * 5,\n        display = document.getElementById('urgency-timer');\n    countdownTimer(fiveMinutes, display);\n  };\n</script>"
-          }
-        },
         "liquid_a8NP8m": {
           "type": "liquid",
           "settings": {
@@ -336,8 +210,9 @@
         },
         "description_bt9wbc": {
           "type": "description",
+          "disabled": true,
           "settings": {
-            "collapse_content": false
+            "collapse_content": true
           }
         },
         "variant_picker_fCUUiE": {
@@ -376,7 +251,6 @@
         "price_keTEDn",
         "rating_xFmy34",
         "separator_jpcU4Q",
-        "liquid_bwG96F",
         "liquid_a8NP8m",
         "description_bt9wbc",
         "variant_picker_fCUUiE",
@@ -387,7 +261,7 @@
       "name": "Featured product",
       "settings": {
         "full_width": true,
-        "product": "tisane-pour-soulagement-des-hemorroides",
+        "product": "thermogen-pro-masseur-de-genou-4-en-1-chauffant-vibrant-et-lumiere-infrarouge",
         "desktop_media_width": 55,
         "desktop_media_layout": "carousel_thumbnails_left",
         "mobile_media_size": "expanded",
@@ -438,14 +312,10 @@
   },
   "order": [
     "text-with-icons",
-    "scrolling_text_LkxLGG",
     "image_with_text_overlay_CQxt3r",
     "logo_list_9mP3KT",
     "rich_text_tw7387",
-    "image_with_text_overlay_Law8Gm",
     "image_with_text_overlay_xmTxQE",
-    "image_with_text_overlay_dMHEgP",
-    "multi_column_LcmeYw",
     "featured_product_pzMUh6",
     "footer"
   ]
