@@ -53,10 +53,38 @@
     },
     "header": {
       "type": "header",
+      "blocks": {
+        "mega_menu_J8HXAe": {
+          "type": "mega_menu",
+          "settings": {
+            "menu_item": "",
+            "layout": "horizontal",
+            "submenu_style": "bold_text",
+            "image_heading_1": "",
+            "image_link_1": "",
+            "image_text_color_1": "#ffffff",
+            "image_heading_2": "",
+            "image_link_2": "",
+            "image_text_color_2": "#ffffff",
+            "image_heading_3": "",
+            "image_link_3": "",
+            "image_text_color_3": "#ffffff",
+            "product": "",
+            "product_card_background": "",
+            "product_card_text_color": "",
+            "promo_content_layout": "grid",
+            "stretch_promo": false,
+            "drawer_link_image": "hide"
+          }
+        }
+      },
+      "block_order": [
+        "mega_menu_J8HXAe"
+      ],
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/ChatGPT_Image_16_juin_2025_17_15_50.png",
+        "logo": "shopify://shop_images/THERMOGEN_1.png",
         "logo_max_width": 200,
         "logo_mobile_max_width": 140,
         "menu": "main-menu",
@@ -75,10 +103,24 @@
         "background_opacity": 0,
         "background_blur_radius": 0
       }
+    },
+    "custom_liquid_6LgHHh": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "liquid": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "#1a1a1a"
+      }
     }
   },
   "order": [
     "announcement-bar",
-    "header"
+    "header",
+    "custom_liquid_6LgHHh"
   ]
 }

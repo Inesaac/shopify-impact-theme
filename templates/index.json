@@ -9,6 +9,29 @@
  */
 {
   "sections": {
+    "rich_text_rKMQqq": {
+      "type": "rich-text",
+      "blocks": {
+        "subheading_KgFQhT": {
+          "type": "subheading",
+          "settings": {
+            "text": "Soulagez vos douleurs aux genoux en quelques minutes."
+          }
+        }
+      },
+      "block_order": [
+        "subheading_KgFQhT"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "image_with_text_overlay_KQydHz": {
       "type": "image-with-text-overlay",
       "settings": {
@@ -16,7 +39,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/une_image_de_plusieur_plantes_medicinales.jpg",
+        "image": "shopify://shop_images/gempages_572047636916339936-1a98891d-2e55-4c77-add9-1af6de101141.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -26,6 +49,7 @@
     }
   },
   "order": [
+    "rich_text_rKMQqq",
     "image_with_text_overlay_KQydHz"
   ]
 }
