@@ -38,6 +38,19 @@
         "text_color": ""
       }
     },
+    "custom_html_hiCRYm": {
+      "type": "custom-html",
+      "name": "Custom HTML",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": false,
+        "remove_horizontal_spacing": false,
+        "html": "<section class=\"avantages-thermogen\">\n  <div class=\"avantages-container\">\n    <div class=\"avantage-item\">\n      <div class=\"icon\">🔥</div>\n      <h3>Soulagement rapide</h3>\n      <p>Résultats en 15 minutes par jour</p>\n    </div>\n    <div class=\"avantage-item\">\n      <div class=\"icon\">🤖</div>\n      <h3>Technologie 3-en-1</h3>\n      <p>Chaleur + massage + LED infrarouge</p>\n    </div>\n    <div class=\"avantage-item\">\n      <div class=\"icon\">🛋️</div>\n      <h3>Confort à domicile</h3>\n      <p>Plus besoin de rendez-vous médicaux</p>\n    </div>\n  </div>\n</section>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "footer": {
       "type": "footer",
       "blocks": {
@@ -74,6 +87,7 @@
   "order": [
     "text-with-icons",
     "custom_html_RYJpWz",
+    "custom_html_hiCRYm",
     "footer"
   ]
 }
