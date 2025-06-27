@@ -153,24 +153,18 @@
   },
   "platform_customizations": {
     "custom_css": [
-      "background: #FEF9F4; padding: 60px 20px;}.hero-container {display: flex; flex-direction: column-reverse; align-items: center; text-align: center; gap: 30px;}",
-      ".hero-text h1 {font-size: 2rem; color: #4E3F64; margin-bottom: 10px; font-weight: 700;}",
-      ".hero-text p {font-size: 1.1rem; color: #6A5C7B; margin-bottom: 25px;}",
-      ".cta-button {background-color: #7F62B3; color: white; padding: 14px 28px; border-radius: 30px; text-decoration: none; font-weight: 600; transition: background 0.3s ease;}",
-      ".cta-button:hover {background-color: #5E4590;}",
-      ".hero-image img {max-width: 100%; border-radius: 20px;}",
-      ".hero-thermogen {background: #FEF9F4; padding: 60px 20px;}",
+      ".hero-thermogen {background: #fef9f4; padding: 60px 20px;}",
       ".hero-container {display: flex; flex-direction: column-reverse; align-items: center; text-align: center; gap: 30px;}",
-      ".hero-text h1 {font-size: 2rem; color: #4E3F64; margin-bottom: 10px; font-weight: 700;}",
-      ".hero-text p {font-size: 1.1rem; color: #6A5C7B; margin-bottom: 25px;}",
+      ".hero-text h1 {font-size: 2rem; color: #4e3f64; margin-bottom: 10px; font-weight: 700;}",
+      ".hero-text p {font-size: 1.1rem; color: #6a5c7b; margin-bottom: 25px;}",
+      ".avantages-thermogen {background-color: #ffffff; padding: 40px 20px;}",
+      ".avantages-container {display: flex; flex-direction: column; gap: 30px; text-align: center;}",
+      ".avantage-item .icon {font-size: 2.2rem; margin-bottom: 10px; color: #7f62b3;}",
+      ".avantage-item h3 {font-size: 1.3rem; color: #4e3f64; margin-bottom: 8px;}",
+      ".avantage-item p {font-size: 1rem; color: #6a5c7b;}",
       ".cta-button {background-color: #7F62B3; color: white; padding: 14px 28px; border-radius: 30px; text-decoration: none; font-weight: 600; transition: background 0.3s ease;}",
       ".cta-button:hover {background-color: #5E4590;}",
-      ".hero-image img {max-width: 100%; border-radius: 20px;}",
-      ".avantages-thermogen {background-color: #FFFFFF; padding: 40px 20px;}",
-      ".avantages-container {display: flex; flex-direction: column; gap: 30px; text-align: center;}",
-      ".avantage-item .icon {font-size: 2.2rem; margin-bottom: 10px; color: #7F62B3;}",
-      ".avantage-item h3 {font-size: 1.3rem; color: #4E3F64; margin-bottom: 8px;}",
-      ".avantage-item p {font-size: 1rem; color: #6A5C7B;}"
+      ".hero-image img {max-width: 100%; border-radius: 20px;}"
     ]
   }
 }
