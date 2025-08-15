@@ -19,7 +19,7 @@
     "block_shadow_vertical_offset": 18,
     "background": "#f3ebf5",
     "text_color": "#190303",
-    "header_background": "#f0f0f0",
+    "header_background": "#ffffff",
     "header_text_color": "#1a1a1a",
     "footer_background": "#ffffff",
     "footer_text_color": "#1a1a1a",
@@ -167,9 +167,9 @@
       ".hero-image img {max-width: 100%; border-radius: 20px;}",
       "<.avantages-thermogen {background-color: #ffffff; padding: 40px 20px;}",
       ".avantages-container {display: flex; flex-direction: column; gap: 30px; text-align: center;}",
-      ".avantage-item .icon {font-size: 2.2rem; margin-bottom: 10px; color: #7F62B3;}",
-      ".avantage-item h3 {font-size: 1.3rem; color: #4E3F64; margin-bottom: 8px;}",
-      ".avantage-item p {font-size: 1rem; color: #6A5C7B;}"
+      ".avantage-item .icon {font-size: 2.2rem; margin-bottom: 10px; color: #7f62b3;}",
+      ".avantage-item h3 {font-size: 1.3rem; color: #4e3f64; margin-bottom: 8px;}",
+      ".avantage-item p {font-size: 1rem; color: #6a5c7b;}"
     ]
   }
 }
