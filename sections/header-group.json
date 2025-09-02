@@ -31,7 +31,7 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Offre été limité -50% sur le 2ème Sachet",
+            "text": "Offre été limité -50% sur le 2ème Kit",
             "url": ""
           }
         }
@@ -45,8 +45,8 @@
         "enable_sticky": false,
         "text_size": "text-xs",
         "navigation_mode": "scrolling",
-        "scrolling_speed": 10,
-        "background": "#e4d6bf",
+        "scrolling_speed": 14,
+        "background": "#61d5e7",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
@@ -84,7 +84,7 @@
       "settings": {
         "enable_sticky": false,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/THALOVEA_5.png",
+        "logo": "shopify://shop_images/gempages_582415482548650648-ecf4edaa-049a-4859-877e-9b625864f751.png",
         "logo_max_width": 200,
         "logo_mobile_max_width": 140,
         "menu": "main-menu",
