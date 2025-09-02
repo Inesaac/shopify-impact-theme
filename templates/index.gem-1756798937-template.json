@@ -17,7 +17,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "md",
-        "image": "shopify://shop_images/gempages_572047636916339936-1a98891d-2e55-4c77-add9-1af6de101141.png",
+        "image": "shopify:\/\/shop_images\/gempages_572047636916339936-1a98891d-2e55-4c77-add9-1af6de101141.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",

@@ -9,65 +9,27 @@
  */
 {
   "current": {
-    "page_width": 1540,
-    "section_vertical_spacing": "medium",
-    "section_boxed_horizontal_spacing": "small",
-    "button_border_radius": 60,
-    "input_border_radius": 8,
+    "background": "#ffffff",
     "block_border_radius": 24,
     "block_shadow_opacity": 10,
     "block_shadow_vertical_offset": 18,
-    "background": "#ffffff",
-    "text_color": "#190303",
-    "header_background": "#ffffff",
-    "header_text_color": "#1a1a1a",
-    "footer_background": "#ffffff",
-    "footer_text_color": "#1a1a1a",
-    "dialog_background": "#ffffff",
-    "primary_button_background": "#1a1a1a",
-    "primary_button_text_color": "#1a1a1a",
-    "secondary_button_background": "#f0c417",
-    "secondary_button_text_color": "#1a1a1a",
-    "product_card_text_color": "#1a1a1a",
-    "product_primary_badge_background": "#803cee",
-    "heading_font": "montserrat_n4",
-    "heading_font_size": "medium",
-    "heading_text_transform": "lowercase",
-    "heading_letter_spacing": 2,
-    "text_font": "montserrat_n4",
-    "text_font_size_mobile": 15,
-    "text_font_size_desktop": 18,
-    "text_font_letter_spacing": 3,
-    "show_page_transition": true,
-    "heading_apparition": "split_rotation",
-    "product_color_display": "swatch",
-    "product_info_alignment": "start",
-    "checkout_accent_color": "#f0c417",
-    "checkout_button_color": "#1a1a1a",
-    "content_for_index": [],
     "blocks": {
+      "11532412952436166569": {
+        "disabled": false,
+        "settings": {},
+        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e"
+      },
       "14060646107696862457": {
-        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
         "disabled": false,
-        "settings": {}
+        "settings": {},
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8"
       },
-      "7924418359578431505": {
-        "type": "shopify://apps/seoant-ai-seo/blocks/seoant-core/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d",
+      "15557474716127144420": {
         "disabled": false,
-        "settings": {}
-      },
-      "855628211100114053": {
-        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
-        "disabled": false,
-        "settings": {}
-      },
-      "8208493610395315515": {
-        "type": "shopify://apps/dondy-whatsapp-chat-marketing/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6",
-        "disabled": false,
-        "settings": {}
+        "settings": {},
+        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8"
       },
       "15683396631634586217": {
-        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#000000",
@@ -78,67 +40,95 @@
           "button_horizontal_position": "bottom_right",
           "button_vertical_position": "lowest",
           "greeting_message": ""
-        }
-      },
-      "15557474716127144420": {
-        "type": "shopify://apps/kaching-bundles/blocks/app-embed-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
-        "disabled": false,
-        "settings": {}
+        },
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b"
       },
       "17198465164502963513": {
-        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5",
         "disabled": false,
-        "settings": {}
-      },
-      "6478312753674380289": {
-        "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3",
-        "disabled": false,
-        "settings": {}
+        "settings": {},
+        "type": "shopify://apps/parcel-panel/blocks/app.embed/fc785c3f-90e0-4c98-a20c-7cde9ba5e4b5"
       },
       "2567389343055140935": {
-        "type": "shopify://apps/microsoft-clarity/blocks/clarity_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea",
         "disabled": false,
-        "settings": {}
+        "settings": {},
+        "type": "shopify://apps/microsoft-clarity/blocks/clarity_js/31c3d126-8116-4b4a-8ba1-baeda7c4aeea"
       },
-      "11532412952436166569": {
-        "type": "shopify://apps/loox-reviews/blocks/loox-inject/5c3b337f-fd14-4df5-b1d6-80ec13e6e28e",
+      "6478312753674380289": {
         "disabled": false,
-        "settings": {}
+        "settings": {},
+        "type": "shopify://apps/gempages-builder/blocks/embed-gp-script-head/20b379d4-1b20-474c-a6ca-665c331919f3"
+      },
+      "7924418359578431505": {
+        "disabled": false,
+        "settings": {},
+        "type": "shopify://apps/seoant-ai-seo/blocks/seoant-core/8e57283b-dcb0-4f7b-a947-fb5c57a0d59d"
+      },
+      "8208493610395315515": {
+        "disabled": false,
+        "settings": {},
+        "type": "shopify://apps/dondy-whatsapp-chat-marketing/blocks/app-block/7f5a70cb-e171-4cc7-ac02-e2220203abd6"
+      },
+      "855628211100114053": {
+        "disabled": false,
+        "settings": {},
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507"
       }
-    }
+    },
+    "button_border_radius": 60,
+    "checkout_accent_color": "#f0c417",
+    "checkout_button_color": "#1a1a1a",
+    "content_for_index": [],
+    "dialog_background": "#ffffff",
+    "footer_background": "#ffffff",
+    "footer_text_color": "#1a1a1a",
+    "header_background": "#ffffff",
+    "header_text_color": "#1a1a1a",
+    "heading_apparition": "split_rotation",
+    "heading_font": "montserrat_n4",
+    "heading_font_size": "medium",
+    "heading_letter_spacing": 2,
+    "heading_text_transform": "lowercase",
+    "input_border_radius": 8,
+    "page_width": 1540,
+    "primary_button_background": "#1a1a1a",
+    "primary_button_text_color": "#1a1a1a",
+    "product_card_text_color": "#1a1a1a",
+    "product_color_display": "swatch",
+    "product_info_alignment": "start",
+    "product_primary_badge_background": "#803cee",
+    "secondary_button_background": "#f0c417",
+    "secondary_button_text_color": "#1a1a1a",
+    "section_boxed_horizontal_spacing": "small",
+    "section_vertical_spacing": "medium",
+    "show_page_transition": true,
+    "text_color": "#190303",
+    "text_font": "montserrat_n4",
+    "text_font_letter_spacing": 3,
+    "text_font_size_desktop": 18,
+    "text_font_size_mobile": 15
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".hero-thermogen {background: #fef9f4; padding: 60px 20px;}",
+      ".hero-container {display: flex; flex-direction: column-reverse; align-items: center; text-align: center; gap: 30px;}",
+      ".hero-text h1 {font-size: 2rem; color: #4e3f64; margin-bottom: 10px; font-weight: 700;}",
+      ".hero-text p {font-size: 1.1rem; color: #6a5c7b; margin-bottom: 25px;}",
+      ".avantages-thermogen {background-color: #ffffff; padding: 40px 20px;}",
+      ".avantages-container {display: flex; flex-direction: column; gap: 30px; text-align: center;}",
+      ".avantage-item .icon {font-size: 2.2rem; margin-bottom: 10px; color: #7f62b3;}",
+      ".avantage-item h3 {font-size: 1.3rem; color: #4e3f64; margin-bottom: 8px;}",
+      ".avantage-item p {font-size: 1rem; color: #6a5c7b;}",
+      ".cta-button {background-color: #7f62b3; color: white; padding: 14px 28px; border-radius: 30px; text-decoration: none; font-weight: 600; transition: background 0.3s ease;}",
+      ".cta-button:hover {background-color: #5e4590;}",
+      ".hero-image img {max-width: 100%; border-radius: 20px;}",
+      "<.avantages-thermogen {background-color: #ffffff; padding: 40px 20px;}",
+      ".avantages-container {display: flex; flex-direction: column; gap: 30px; text-align: center;}",
+      ".avantage-item .icon {font-size: 2.2rem; margin-bottom: 10px; color: #7f62b3;}",
+      ".avantage-item h3 {font-size: 1.3rem; color: #4e3f64; margin-bottom: 8px;}",
+      ".avantage-item p {font-size: 1rem; color: #6a5c7b;}"
+    ]
   },
   "presets": {
-    "Sound": {
-      "section_vertical_spacing": "medium",
-      "button_border_radius": 60,
-      "input_border_radius": 8,
-      "block_border_radius": 24,
-      "block_shadow_opacity": 10,
-      "block_shadow_vertical_offset": 18,
-      "background": "#f0f0f0",
-      "text_color": "#1a1a1a",
-      "header_background": "#f0f0f0",
-      "header_text_color": "#1a1a1a",
-      "footer_background": "#ffffff",
-      "footer_text_color": "#1a1a1a",
-      "primary_button_background": "#1a1a1a",
-      "primary_button_text_color": "#ffffff",
-      "secondary_button_background": "#f0c417",
-      "secondary_button_text_color": "#1a1a1a",
-      "product_card_text_color": "#1a1a1a",
-      "product_primary_badge_background": "#803cee",
-      "heading_font": "din_next_n7",
-      "heading_font_size": "large",
-      "heading_letter_spacing": -2,
-      "text_font": "din_next_n4",
-      "show_page_transition": true,
-      "cart_icon": "shopping_basket",
-      "heading_apparition": "split_fade",
-      "product_color_display": "swatch",
-      "product_info_alignment": "start",
-      "checkout_accent_color": "#f0c417",
-      "checkout_button_color": "#1a1a1a"
-    },
     "Home": {
       "section_vertical_spacing": "medium",
       "section_boxed_horizontal_spacing": "large",
@@ -203,27 +193,37 @@
       "text_font_size_desktop": 15,
       "product_color_display": "swatch",
       "product_info_alignment": "center"
+    },
+    "Sound": {
+      "section_vertical_spacing": "medium",
+      "button_border_radius": 60,
+      "input_border_radius": 8,
+      "block_border_radius": 24,
+      "block_shadow_opacity": 10,
+      "block_shadow_vertical_offset": 18,
+      "background": "#f0f0f0",
+      "text_color": "#1a1a1a",
+      "header_background": "#f0f0f0",
+      "header_text_color": "#1a1a1a",
+      "footer_background": "#ffffff",
+      "footer_text_color": "#1a1a1a",
+      "primary_button_background": "#1a1a1a",
+      "primary_button_text_color": "#ffffff",
+      "secondary_button_background": "#f0c417",
+      "secondary_button_text_color": "#1a1a1a",
+      "product_card_text_color": "#1a1a1a",
+      "product_primary_badge_background": "#803cee",
+      "heading_font": "din_next_n7",
+      "heading_font_size": "large",
+      "heading_letter_spacing": -2,
+      "text_font": "din_next_n4",
+      "show_page_transition": true,
+      "cart_icon": "shopping_basket",
+      "heading_apparition": "split_fade",
+      "product_color_display": "swatch",
+      "product_info_alignment": "start",
+      "checkout_accent_color": "#f0c417",
+      "checkout_button_color": "#1a1a1a"
     }
-  },
-  "platform_customizations": {
-    "custom_css": [
-      ".hero-thermogen {background: #fef9f4; padding: 60px 20px;}",
-      ".hero-container {display: flex; flex-direction: column-reverse; align-items: center; text-align: center; gap: 30px;}",
-      ".hero-text h1 {font-size: 2rem; color: #4e3f64; margin-bottom: 10px; font-weight: 700;}",
-      ".hero-text p {font-size: 1.1rem; color: #6a5c7b; margin-bottom: 25px;}",
-      ".avantages-thermogen {background-color: #ffffff; padding: 40px 20px;}",
-      ".avantages-container {display: flex; flex-direction: column; gap: 30px; text-align: center;}",
-      ".avantage-item .icon {font-size: 2.2rem; margin-bottom: 10px; color: #7f62b3;}",
-      ".avantage-item h3 {font-size: 1.3rem; color: #4e3f64; margin-bottom: 8px;}",
-      ".avantage-item p {font-size: 1rem; color: #6a5c7b;}",
-      ".cta-button {background-color: #7f62b3; color: white; padding: 14px 28px; border-radius: 30px; text-decoration: none; font-weight: 600; transition: background 0.3s ease;}",
-      ".cta-button:hover {background-color: #5e4590;}",
-      ".hero-image img {max-width: 100%; border-radius: 20px;}",
-      "<.avantages-thermogen {background-color: #ffffff; padding: 40px 20px;}",
-      ".avantages-container {display: flex; flex-direction: column; gap: 30px; text-align: center;}",
-      ".avantage-item .icon {font-size: 2.2rem; margin-bottom: 10px; color: #7f62b3;}",
-      ".avantage-item h3 {font-size: 1.3rem; color: #4e3f64; margin-bottom: 8px;}",
-      ".avantage-item p {font-size: 1rem; color: #6a5c7b;}"
-    ]
   }
 }
