@@ -48,7 +48,7 @@
     },
     "gp_section_582499153259528817": {
       "settings": {
-        "checksum": "b7962ecd932d3750316257f3d9684fefd3eef9cfceb8abe9161be7e39ebb8081_1_1_1_0_"
+        "checksum": "497580d29f10211ee2da55990090419180d487e99e3cc7669397d83852263cef_1_1_1_0_"
       },
       "type": "gp-section-582499153259528817"
     },
@@ -99,6 +99,23 @@
         "checksum": "e432c93216289e1e8db500e572eb20c5c9d5106b797ccd22ea3bb3ebe21982ab_1_1_1_0_"
       },
       "type": "gp-section-582627103539725144"
+    },
+    "gp_section_582652143987589745": {
+      "block_order": [
+        "gp_app_kaching-bundles_gZAvv-If1q"
+      ],
+      "blocks": {
+        "gp_app_kaching-bundles_gZAvv-If1q": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "skinacro™-kit-d-elimination-des-acrochordons-40-traitements"
+          }
+        }
+      },
+      "settings": {
+        "checksum": "ddd73a3613e9800e6c3de789acdccfd26f68bc6f5d2382d7f0b635cd0a36d683_1_1_1_0_"
+      },
+      "type": "gp-section-582652143987589745"
     }
   },
   "order": [
@@ -108,6 +125,7 @@
     "gp_section_582432661981627353",
     "gp_section_582489068927976409",
     "gp_section_582489427507413977",
+    "gp_section_582652143987589745",
     "gp_section_582499153259528817",
     "gp_section_582502235871642264",
     "gp_section_582510087021527896",
