@@ -11,7 +11,7 @@
   "sections": {
     "gp_section_582426738970067608": {
       "settings": {
-        "checksum": "60ad9750991c4e03d9af61ff7ca9c7298f15887c750c74663eb71f2f80671981_1_1_1_0_",
+        "checksum": "5b8b8ef3d5a5f75bf4516f4de07f15de74d03f26ced97f27611777aa16b89acd_1_1_1_0_",
         "section_preload": "true"
       },
       "type": "gp-section-582426738970067608"
@@ -48,13 +48,13 @@
     },
     "gp_section_582499153259528817": {
       "settings": {
-        "checksum": "e8cb8b5daf052e1e490ba9d9600bcd139a932f13b1bc37a04feea5a7f929d2a4_1_1_1_0_"
+        "checksum": "12968a2d12395ca145f10c792404bbc5ac3b1a04bbfa2f72b5440a0c30ac7f7c_1_1_1_0_"
       },
       "type": "gp-section-582499153259528817"
     },
     "gp_section_582502235871642264": {
       "settings": {
-        "checksum": "c06e75c91ab33740bf4fce2b7060c3d373763d4e536f5c7b685a4da3142dc5c4_1_1_1_0_"
+        "checksum": "e18b6146a8b9600e70848b61c85ae05dbf976502eae7af5e0a92b6bde98ad55a_1_1_1_0_"
       },
       "type": "gp-section-582502235871642264"
     },
@@ -69,12 +69,6 @@
         "checksum": "9df0038756d18f26e2c10eca341d83d11cdfa56ef47adc5ef0c043d25bdbf471_1_1_1_0_"
       },
       "type": "gp-section-582505922782298968"
-    },
-    "gp_section_582507025682924376": {
-      "settings": {
-        "checksum": "e7c31427f1ba7b9ff759b5d292bab3e874c9e4dc8ed807ff94e7d31ca90be4e3_1_1_1_0_"
-      },
-      "type": "gp-section-582507025682924376"
     },
     "gp_section_582510087021527896": {
       "settings": {
@@ -100,12 +94,12 @@
       },
       "type": "gp-section-582627103539725144"
     },
-    "gp_section_582652143987589745": {
+    "gp_section_582801565614605273": {
       "block_order": [
-        "gp_app_kaching-bundles_gZAvv-If1q"
+        "gp_app_kaching-bundles_gwYxf9-rFp"
       ],
       "blocks": {
-        "gp_app_kaching-bundles_gZAvv-If1q": {
+        "gp_app_kaching-bundles_gwYxf9-rFp": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
           "settings": {
             "product": "skinacro™-kit-d-elimination-des-acrochordons-40-traitements"
@@ -113,9 +107,15 @@
         }
       },
       "settings": {
-        "checksum": "d88898a5bc88e3743085ee4db56187954cabb71a989ff8b214caeb661147ecfb_1_1_1_0_"
+        "checksum": "574083034ed7f026e9c64b46be679d54bb96779ee9214160e0c70fb808f8a8fe_1_1_1_0_"
       },
-      "type": "gp-section-582652143987589745"
+      "type": "gp-section-582801565614605273"
+    },
+    "gp_section_582803277981155953": {
+      "settings": {
+        "checksum": "4477018cc821d41bbc58302b454cd9c5948e288f47b5b4a0d3e731904eb84db8_1_1_1_0_"
+      },
+      "type": "gp-section-582803277981155953"
     }
   },
   "order": [
@@ -125,7 +125,7 @@
     "gp_section_582432661981627353",
     "gp_section_582489068927976409",
     "gp_section_582489427507413977",
-    "gp_section_582652143987589745",
+    "gp_section_582801565614605273",
     "gp_section_582499153259528817",
     "gp_section_582502235871642264",
     "gp_section_582510087021527896",
@@ -134,6 +134,6 @@
     "gp_section_582627103539725144",
     "gp_section_582503055186985945",
     "gp_section_582505922782298968",
-    "gp_section_582507025682924376"
+    "gp_section_582803277981155953"
   ]
 }
