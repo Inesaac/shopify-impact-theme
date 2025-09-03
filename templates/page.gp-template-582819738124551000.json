@@ -1,0 +1,153 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "gp_section_582819738258768728": {
+      "settings": {
+        "checksum": "d46c957e30ad8f6554f3c9ab145636727897eb169c67172d0a780f461a512f68_1_1_1_0_"
+      },
+      "type": "gp-section-582819738258768728"
+    },
+    "gp_section_582819738258834264": {
+      "settings": {
+        "checksum": "42b64b8916b8c5dcc9c169e6053b0b5cbca279c7e413fff8ed523a1acdd35536_1_1_1_0_"
+      },
+      "type": "gp-section-582819738258834264"
+    },
+    "gp_section_582819738258899800": {
+      "settings": {
+        "checksum": "e7ada4a52b216a2d04f7e47b1e6bfa6f81e10e7a3323cf75b3d2b8156b7bbd78_1_1_1_0_",
+        "section_preload": "true"
+      },
+      "type": "gp-section-582819738258899800"
+    },
+    "gp_section_582819738258965336": {
+      "settings": {
+        "checksum": "ff4b8608a529120024894c2056681cef462cf18308dff443e3ab3d7ff6db6ba1_1_1_1_0_"
+      },
+      "type": "gp-section-582819738258965336"
+    },
+    "gp_section_582819738259030872": {
+      "settings": {
+        "checksum": "5800ac754ec785c9e72eb0fb37e75d1b44d16f74185707a73e204cd4b441733f_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259030872"
+    },
+    "gp_section_582819738259096408": {
+      "settings": {
+        "checksum": "fa69dd6be3cf2920480752371504b824e2a013b16288ca7217919ff4a6d03a5b_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259096408"
+    },
+    "gp_section_582819738259161944": {
+      "settings": {
+        "checksum": "1a70cf7bad14a8eca772c53b0f7d81f5a3bbd44391a50a3ba1ed5ae614ea7b42_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259161944"
+    },
+    "gp_section_582819738259227480": {
+      "settings": {
+        "checksum": "79e5a4d488e5fc78a5956bc83f1fe8463dc4bfcae1e8726d2e175970d4c3c2a9_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259227480"
+    },
+    "gp_section_582819738259293016": {
+      "settings": {
+        "checksum": "ca1b7854cfa07ae7bf1a1cdcf1a2b5fc32fc0491f9cfd64699353c9d5d058b38_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259293016"
+    },
+    "gp_section_582819738259358552": {
+      "settings": {
+        "checksum": "4d280443ec1da5984e53ae206bc91cb99ef1eaebbdf3d43f1515dde6c4c7b011_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259358552"
+    },
+    "gp_section_582819738259424088": {
+      "settings": {
+        "checksum": "e61371ec8199fbf620a67e89e2803a2b81c4540446722aeaeabb7ca8d642ddcb_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259424088"
+    },
+    "gp_section_582819738259489624": {
+      "settings": {
+        "checksum": "51365d19c57846b5ffe610efe6dcca6713c9eccb70c737744eb144b7194dc0e8_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259489624"
+    },
+    "gp_section_582819738259555160": {
+      "settings": {
+        "checksum": "33445c388932884f3ecb1b6e7043263bd42eb3bcfe387741858b3f89dbde9044_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259555160"
+    },
+    "gp_section_582819738259620696": {
+      "block_order": [
+        "gp_app_kaching-bundles_gwYxf9-rFp"
+      ],
+      "blocks": {
+        "gp_app_kaching-bundles_gwYxf9-rFp": {
+          "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
+          "settings": {
+            "product": "skinacro™-kit-d-elimination-des-acrochordons-40-traitements"
+          }
+        }
+      },
+      "settings": {
+        "checksum": "8dbd8974822aba2259eabefc96f0e91ecc260bcdc612fb8ffa4033144933e161_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259620696"
+    },
+    "gp_section_582819738259686232": {
+      "settings": {
+        "checksum": "aecda6e1ff3f2cd5f990b06589cc002c60e85ba3c3151102b6913b97507066cc_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259686232"
+    },
+    "gp_section_582819738259751768": {
+      "settings": {
+        "checksum": "9838aad7b704719c543d5b286d682fc646d4461f07671e7c259c90c9a8f65d60_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259751768"
+    },
+    "gp_section_582819738259817304": {
+      "settings": {
+        "checksum": "6f7e4f7c7f924500ab03c1d6a3e3b03a95e13878df6007c92bfc9c57ae75b403_1_1_1_0_"
+      },
+      "type": "gp-section-582819738259817304"
+    },
+    "gp_section_582819862041068376": {
+      "settings": {
+        "checksum": "377f592927257101f91d90b3ad8fcffae950dc2c1edac1b1bfe4241f4a935175_1_1_1_0_"
+      },
+      "type": "gp-section-582819862041068376"
+    }
+  },
+  "order": [
+    "gp_section_582819738258899800",
+    "gp_section_582819738258965336",
+    "gp_section_582819738259227480",
+    "gp_section_582819738259030872",
+    "gp_section_582819738259096408",
+    "gp_section_582819738259161944",
+    "gp_section_582819738259620696",
+    "gp_section_582819738259751768",
+    "gp_section_582819738259293016",
+    "gp_section_582819738259817304",
+    "gp_section_582819738259489624",
+    "gp_section_582819738259555160",
+    "gp_section_582819738258768728",
+    "gp_section_582819738258834264",
+    "gp_section_582819738259358552",
+    "gp_section_582819738259424088",
+    "gp_section_582819738259686232",
+    "gp_section_582819862041068376"
+  ]
+}
