@@ -9,16 +9,81 @@
  */
 {
   "sections": {
-    "gp_section_582655147411309208": {
+    "gp_section_582655147411440280": {
+      "type": "gp-section-582655147411440280",
       "settings": {
-        "checksum": "ebfd6977ff7c8075fae2a0c507e53fc6585277a32dc954cb9ea7a0ae4716f64f_1_1_1_0_"
-      },
-      "type": "gp-section-582655147411309208"
+        "section_preload": "true",
+        "checksum": "a3d506ae6a7a0e113b01072a61f64d3911a2a8141af9a78154749d68afc24ce9_1_1_1_0_",
+        "ggL8LzVKOrL_text": "<span style=\"color:#ededef;\">Dites adieu à vos excroissances de peau (acrochordons), sans douleur ni chirurgie.</span>"
+      }
+    },
+    "gp_section_582655147411505816": {
+      "type": "gp-section-582655147411505816",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "8d7b0c02511d526d8a9e4849d0d25f2edda7a59a82520d1a251524da0996e9bc_1_1_1_0_",
+        "ggtj6DSXpvc_text": "<strong>Vu sur :</strong>"
+      }
+    },
+    "gp_section_582655147411767960": {
+      "type": "gp-section-582655147411767960",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "cc00088661c1d4bc05ad8aedb0aa93dd64cac50638b03df4858194d53560115d_1_1_1_0_",
+        "ggR8sGxyrI3_text": "Résultat Avant/Après"
+      }
+    },
+    "gp_section_582655147411571352": {
+      "type": "gp-section-582655147411571352",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "20f9af0b793f941c9ab5eed4494f9b4088f2eed34b3e523ba8cfa1f3c44b8e5f_1_1_1_0_"
+      }
+    },
+    "gp_section_582655147411636888": {
+      "type": "gp-section-582655147411636888",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "40d8a1c63059bfec29aa3186c3743e0386db89b7314848f09548b40dcd41df5f_1_1_1_0_",
+        "ggProwV2cT5_text": "<p>Pourquoi choisir SkinAcro ?</p>",
+        "ggg3sQg5vem_text": "Nos clients en parlent le mieux "
+      }
+    },
+    "gp_section_583098329819251544": {
+      "type": "gp-section-583098329819251544",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "a958f4d0cd29430aa382b9729faf776764fe89b23d590b7286c515b0137498f4_1_1_1_0_",
+        "gg6Qf2aAzNQ_text": " Aurélie",
+        "ggEVZKNiDcH_text": "<p>Je l'ai Achetée pour ma sœur et ma mère  toutes les deux et on est bluffées du résultat les acrochordons sont tombé en l'espace de 4 à 5 jours je le recommande vivement.</p>",
+        "ggkva5CHFaM_text": "Amelia",
+        "gg1D5BfjPUa_text": "<p>J'avais un acrochordons sur la nuque qui me gênaient avec mes colliers... Après 6 jours, ils ont disparu sans laisser de trace.</p>",
+        "ggfIIbW57M0_text": " Lana",
+        "ggXV3771qB__text": "<p>\"Ultra facile à utiliser, aucune douleur et résultat rapide. Maintenant je peux porter mes crop tops sans complexe ! 🌸\"</p>",
+        "ggoYMMV5FkF_text": " Claire",
+        "ggofeTKKKO6_text": "<p>\"Mon mari déteste aller chez le médecin pour ça... Grâce à SkinAcro, je peux l’aider à la maison, et les résultats sont bluffants On a testé ensemble et en moins d'une semaine, plus rien ! Super pratique et efficace.</p>",
+        "ggn9ZskPvOU_text": " Sophie",
+        "gg2AKtqEByy_text": "<p><i>\"Je n'osais plus mettre de débardeurs à cause de mes acrochordons sous les bras... Après 4 jours avec SkinAcro, ils sont déjà en train de tomber ! 🙌 Tellement simple à utiliser et zéro douleur.\"</i></p>",
+        "gg7gOPpjpzE_text": "Comment ça marche?",
+        "gg1Q66xXOMG_text": "Des résultats concrets :",
+        "ggsWynCyLG3_text": "<p><strong>Nathalie</strong></p><p>\"Je n’aurais jamais cru qu’un jour je pourrais me débarrasser de mes acrochordons sans passer par une chirurgie douloureuse et coûteuse… Et pourtant, SkinAcro m’a prouvé le contraire.<br>Aujourd’hui, je n’ai plus aucun acrochordon, je retrouve confiance en moi et je me sens enfin bien dans ma peau. C’est une vraie libération !\"</p>",
+        "gg4-zpa3H1e_text": "<p><strong>Margot</strong></p><p>\"Ces acrochordons me gâchaient la vie… J’avais honte, je n’osais même plus porter certains vêtements.<br>Puis j’ai découvert SkinAcro : en seulement 5 jours, mon acrochordon est tombé, sans douleur, et la petite marque a disparu en moins de 10 jours.<br>Je n’en reviens pas du changement, c’est incroyable… Je revis !\"</p>"
+      }
+    },
+    "gp_section_583545817948750407": {
+      "type": "gp-section-583545817948750407",
+      "settings": {
+        "section_preload": "true",
+        "checksum": "11c491909116e5d41b3ad284ea1c7111971f22cf565ae9df0722b0796bb11e7a_1_1_1_0_",
+        "ggTME4Xdo50_text": "<p>4,8 (589 avis vérifiés)</p>",
+        "ggH-ajJ-67Z_template": "Plus que 6 en stock",
+        "ggH-ajJ-67Z_outOfStockMessage": "OUT OF STOCK",
+        "ggH-ajJ-67Z_continueSelling": "Restock soon! PREORDER NOW",
+        "ggH-ajJ-67Z_unlimitedQuantityMessage": "Hurry! LET BUY NOW"
+      }
     },
     "gp_section_582655147411374744": {
-      "block_order": [
-        "gp_app_kaching-bundles_gZAvv-If1q"
-      ],
+      "type": "gp-section-582655147411374744",
       "blocks": {
         "gp_app_kaching-bundles_gZAvv-If1q": {
           "type": "shopify://apps/kaching-bundles/blocks/app-block/6c637362-a106-4a32-94ac-94dcfd68cdb8",
@@ -27,101 +92,164 @@
           }
         }
       },
+      "block_order": [
+        "gp_app_kaching-bundles_gZAvv-If1q"
+      ],
       "settings": {
-        "checksum": "4d18b813739e56696e7077c94d8581b23ec8aeaff0be31608c3e64f24cddf519_1_1_1_0_"
-      },
-      "type": "gp-section-582655147411374744"
-    },
-    "gp_section_582655147411440280": {
-      "settings": {
-        "checksum": "a3d506ae6a7a0e113b01072a61f64d3911a2a8141af9a78154749d68afc24ce9_1_1_1_0_",
-        "section_preload": "true"
-      },
-      "type": "gp-section-582655147411440280"
-    },
-    "gp_section_582655147411505816": {
-      "settings": {
-        "checksum": "8d7b0c02511d526d8a9e4849d0d25f2edda7a59a82520d1a251524da0996e9bc_1_1_1_0_"
-      },
-      "type": "gp-section-582655147411505816"
-    },
-    "gp_section_582655147411571352": {
-      "settings": {
-        "checksum": "20f9af0b793f941c9ab5eed4494f9b4088f2eed34b3e523ba8cfa1f3c44b8e5f_1_1_1_0_"
-      },
-      "type": "gp-section-582655147411571352"
-    },
-    "gp_section_582655147411636888": {
-      "settings": {
-        "checksum": "40d8a1c63059bfec29aa3186c3743e0386db89b7314848f09548b40dcd41df5f_1_1_1_0_"
-      },
-      "type": "gp-section-582655147411636888"
-    },
-    "gp_section_582655147411702424": {
-      "settings": {
-        "checksum": "b546d87c96ca12f6f3d9744735048885fc05c695fe76126cbd90a0a6439b0c1b_1_1_1_0_"
-      },
-      "type": "gp-section-582655147411702424"
-    },
-    "gp_section_582655147411767960": {
-      "settings": {
-        "checksum": "cc00088661c1d4bc05ad8aedb0aa93dd64cac50638b03df4858194d53560115d_1_1_1_0_"
-      },
-      "type": "gp-section-582655147411767960"
-    },
-    "gp_section_582655147411964568": {
-      "settings": {
-        "checksum": "1e0ee2f4cb796e20b31dc02fc5e5c330557ebdbfa3c33d70a264b2506d85f039_1_1_1_0_"
-      },
-      "type": "gp-section-582655147411964568"
-    },
-    "gp_section_582655147412030104": {
-      "settings": {
-        "checksum": "246284ee26ad5ccfe8821a3d29a052e0186a17951a2475c8b90c1c553fc7fb37_1_1_1_0_"
-      },
-      "type": "gp-section-582655147412030104"
-    },
-    "gp_section_582655147412095640": {
-      "settings": {
-        "checksum": "7e4faa5d7abbb6cb7ba68c6ad36f431549b82f8ee0437c9d9815551a3af4160c_1_1_1_0_"
-      },
-      "type": "gp-section-582655147412095640"
-    },
-    "gp_section_582655147412161176": {
-      "settings": {
-        "checksum": "c00d5f985b8a5af33cbe4e244ba394704ab9fbbd3c0c9483aa26c1c689267cdf_1_1_1_0_"
-      },
-      "type": "gp-section-582655147412161176"
-    },
-    "gp_section_582655147412226712": {
-      "settings": {
-        "checksum": "382c4bd316092a7a6695ee8b7953ec98c01b7de8a145a2cce6248f0a8a982324_1_1_1_0_"
-      },
-      "type": "gp-section-582655147412226712"
+        "section_preload": "false",
+        "checksum": "4d18b813739e56696e7077c94d8581b23ec8aeaff0be31608c3e64f24cddf519_1_1_1_0_",
+        "gg448xjsVB7_label": "Acheter maintenant",
+        "gg448xjsVB7_outOfStockLabel": "Out of stock",
+        "gg448xjsVB7_unavailableLabel": "Unavailable",
+        "ggUEXGIc6R8_text": "<p>Paiement 100% sécurisé</p>",
+        "ggO4S3LcL1V_text": " Cette offre expire dans :",
+        "gg0fLgVdmhD_dayLabel": "Day",
+        "gg0fLgVdmhD_hourLabel": "Hour",
+        "gg0fLgVdmhD_minuteLabel": "Minute",
+        "gg0fLgVdmhD_secondLabel": "Second",
+        "gg0fLgVdmhD_weekLabel": "Week"
+      }
     },
     "gp_section_582838173818684017": {
+      "type": "gp-section-582838173818684017",
       "settings": {
-        "checksum": "52ddf34265fb915321d96f21409d34cbbec878dc69875d5816fe2a86e3fa94c9_1_1_1_0_"
-      },
-      "type": "gp-section-582838173818684017"
+        "section_preload": "false",
+        "checksum": "52ddf34265fb915321d96f21409d34cbbec878dc69875d5816fe2a86e3fa94c9_1_1_1_0_",
+        "ggbBYL3NnEb_childItem_0": "<p><strong>Caractéristiques</strong></p>",
+        "ggbBYL3NnEb_childItem_1": "<p><strong>Essayez le 30 jours gratuitement</strong></p>",
+        "ggbBYL3NnEb_childItem_2": "<p><strong>Livraison gratuite à domicile</strong></p>",
+        "ggbBYL3NnEb_childItem_3": "<p><strong>Paiement sécurisé</strong></p>",
+        "ggbBYL3NnEb_childItem_4": "<p><strong>Support client réactif</strong></p>",
+        "ggM5Cmd0fQh_text": "<p><strong>Élimination indolore</strong> : sans chirurgie, sans brûlure, sans cicatrice.</p><p> <strong>Résultats rapides</strong> : acrochordons éliminés en 3 à 10 jours.</p><p><strong>Utilisation à domicile</strong> : kit complet, simple et pratique.</p><p><strong>Précision ciblée</strong> : deux tailles de bandes (2–4 mm et 4–8 mm).</p><p><strong>Économique</strong> : jusqu’à 40 traitements inclus.</p><p> <strong>Contenu du kit</strong> : applicateur, embouts, élastiques, tampons nettoyants, manuel.</p>",
+        "ggILfN6fgyp_text": "<p>Achetez sans risque : testez SkinAcro™ et soyez remboursé si vous n’êtes pas satisfait.</p>",
+        "gglJCohYg2d_text": "<p>Profitez de la livraison offerte partout en France en Belgique et en Suisse.</p>",
+        "gglnnI6eNU0_text": "<p>Visa, Mastercard, PayPal – vos données sont protégées par un cryptage SSL.</p>",
+        "ggL4q12u0iw_text": "<p>Notre équipe est disponible 7j/7 pour répondre à vos questions.</p>"
+      }
+    },
+    "gp_section_582655147412161176": {
+      "type": "gp-section-582655147412161176",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "c00d5f985b8a5af33cbe4e244ba394704ab9fbbd3c0c9483aa26c1c689267cdf_1_1_1_0_",
+        "gghJ410Qhfc_text": "<p>« SkinAcro™ est une méthode simple et douce pour traiter les acrochordons à domicile. Elle respecte la peau saine autour et offre une alternative pratique et sécurisée aux méthodes classiques comme la cryothérapie ou l’électrocoagulation. »</p><p> </p><p>Dr Maeva Hubert </p><p>Dermatologue</p>"
+      }
+    },
+    "gp_section_582655147411702424": {
+      "type": "gp-section-582655147411702424",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "b546d87c96ca12f6f3d9744735048885fc05c695fe76126cbd90a0a6439b0c1b_1_1_1_0_",
+        "gg1YqLjmVOF_text": "<p>Ils nous ont fait confiance voici leurs mots :</p>",
+        "ggjjHFpYw2g_text": " Ines",
+        "gg2ewEe-FUH_text": "<p>J’étais nerveuse à l’idée d’essayer quelque chose de nouveau, mais le processus a été totalement indolore, et mes acrochordons ont disparu en seulement 5 jours. Je ne pourrais pas être plus heureuse.</p>",
+        "gASZAJ9hAPR_text": " Anais",
+        "g2if-iVTsjU_text": "<p>J’étais sceptique au début, mais avec la garantie satisfait ou remboursé, j’ai décidé d’essayer. Les résultats m’ont bluffée ! Mes acrochordons ont disparu, et ils ne sont jamais revenus.</p>",
+        "gg1f5E5SgGi_text": " Marie",
+        "ggebabGr9mu_text": "<p>Les résultats ont été rapides, et le processus tellement simple. J’aurais aimé découvrir Skinacro plus tôt.</p>",
+        "glOkOHF_p1__text": " Chloé",
+        "gTswLMeTOWB_text": "<p>J’adore à quel point c’était facile à utiliser. Les instructions étaient claires, et cela a fonctionné exactement comme promis. Pas de douleur, pas de saignement et aucune cicatrice.</p>",
+        "gGuS8ez1IV9_text": " Marion",
+        "g_1m1z66672_text": "<p>Mes acrochordons ont disparu en seulement 6 jours, et il n’y a eu aucune cicatrice.</p>"
+      }
+    },
+    "gp_section_582655147411309208": {
+      "type": "gp-section-582655147411309208",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "ebfd6977ff7c8075fae2a0c507e53fc6585277a32dc954cb9ea7a0ae4716f64f_1_1_1_0_",
+        "ggwdcbP0V26_text": "La solution la plus simple et efficace pour enlever vos acrochordons",
+        "gga1dsmOQqZ_text": "<p>Critères de comparaison</p>",
+        "gga6ZXGj6r0_text": "<p>Autres méthodes</p>",
+        "ggnSEGBegXu_text": "<p>Élimination indolore</p>",
+        "ggx6kYdDW64_text": "<p>Sans cicatrices</p>",
+        "ggtjrrL7ahR_text": "<p>Résultats rapides (3–10 jours)</p>",
+        "gg7jprtpO5z_text": "<p>Utilisable à domicile</p>",
+        "ggo7Y2-vN5R_text": "<p>Économique (jusqu’à 40 traitements)</p>",
+        "ggs448HIqq__label": "<p>Acheter maintenant</p>",
+        "ggm-B7UTrXP_childItem_0": "<p>30 jours de garantie satisfait ou remboursé </p>"
+      }
+    },
+    "gp_section_582655147412226712": {
+      "type": "gp-section-582655147412226712",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "382c4bd316092a7a6695ee8b7953ec98c01b7de8a145a2cce6248f0a8a982324_1_1_1_0_",
+        "ggNGzSeK9Ax_text": "<p>500+ Avis vérifiés</p>",
+        "glhIHsAjMz9_text": "<p><strong>Michelle</strong></p><p>J’avais du mal à y croire. Pas de brûlure, pas de sensation désagréable – il suffit d’appliquer et d’attendre. Skinacro  a enlevé ma verrue doucement et efficacement. Je me sens de nouveau bien dans ma peau !</p>",
+        "guuFS3Tkjsl_text": "<p><strong>Mathis</strong></p><p>Enfin un produit qui tient ses promesses ! J’ai essayé tellement de crèmes, rien n’avait fonctionné. Avec Skinacro, c’était rapide et simple. Je suis tellement soulagée</p>",
+        "gbd_SrADOdQ_text": "<p><strong>Melania</strong></p><p> Application super simple et aucune douleur. J’ai pu voir la différence après seulement trois jours. Alcura a dépassé mes attentes, et cela sans visite chez le médecin !</p>",
+        "g2mfc8bCDBE_text": "<p><strong>Cécile </strong></p><p>J’avais peur à cause de la proximité avec l’œil. J’étais sceptique au départ, mais Skinacro est tellement doux que ça n’a posé aucun problème.</p>",
+        "ge8X_IHLUCR_text": "<p><strong>Lila </strong></p><p>Skinacro m’a vraiment aidé. Je voulais éviter le passage gênant chez le dermatologue et ça a parfaitement fonctionné. L’acrochordon sur mon dos a disparu</p>",
+        "g9le5ejJtqI_text": "<p><strong>Marcus</strong></p><p> Mieux que chez le dermatologue ! J’ai économisé 200 €, et le résultat est tout aussi bon. Pourquoi je n’y ai pas pensé plus tôt ?</p>",
+        "gzKF4xhrqUz_text": "<p><strong>Jérôme</strong></p><p> J’ai déjà utilisé les anneaux pour la deuxième fois, après environ 5 jours les premiers sont tombés. Super.</p><p> </p><p> </p>",
+        "gu7zwUiq_Um_text": "<p><strong>Lola</strong></p><p>ça marche vraiment ! au bout de 7 jours mon acrochordon est tombé. je n'ai ressenti aucune douleur il y avait une toute petite marque qui commence a disparaitre. Merci Skinacro</p>",
+        "gKZfS4OJRWb_text": "<p><strong>Gloria</strong></p><p>J’avais depuis des années de petits acrochordons sur le cou, qui me gênaient surtout avec mes bijoux. Après quelques jours avec Skinacro, ils ont disparu.</p>",
+        "guzTAye4L_G_text": "<p><strong>Stephanie</strong></p><p>Enfin débarrassée ! Après 6 jours, mon acrochordon au cou avait complètement disparu. Sans douleur et sans cicatrice.</p>",
+        "gZuEXDAYScI_text": "<p><strong>Laura</strong></p><p>Sceptique mais convaincu. J’étais incertain au début, mais le résultat parle de lui-même</p>"
+      }
+    },
+    "gp_section_582655147411964568": {
+      "type": "gp-section-582655147411964568",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "1e0ee2f4cb796e20b31dc02fc5e5c330557ebdbfa3c33d70a264b2506d85f039_1_1_1_0_",
+        "ggL3R3mHsPt_text": "Questions Fréquentes :",
+        "gg9gU5-0UBK_childItem_0": "<p>1. Est-ce que SkinAcro™ fait mal ?</p>",
+        "gg9gU5-0UBK_childItem_1": "<p>2. Combien de temps faut-il pour voir des résultats ?</p>",
+        "gg9gU5-0UBK_childItem_2": "<p><strong>3. Est-ce que je peux l’utiliser sur toutes les parties du corps ?</strong></p>",
+        "gg9gU5-0UBK_childItem_3": "<p>4. Combien d’acrochordons puis-je retirer avec un kit ?</p>",
+        "gg9gU5-0UBK_childItem_4": "<p>5. Est-ce sûr ?</p>",
+        "gg9gU5-0UBK_childItem_5": "<p>6. Que faire si l’acrochordon ne tombe pas ?</p>",
+        "ggQi8Fo43-h_text": "<p>Non, l’utilisation est indolore. L’élastique agit doucement sur l’acrochordon jusqu’à ce qu’il sèche et tombe naturellement, sans brûlure ni cicatrice.</p>",
+        "ggmxmh4RRz9_text": "<p>Les acrochordons tombent généralement en <strong>3 à 10 jours</strong>, selon leur taille et leur emplacement.</p>",
+        "ggBRbfrzryf_text": "<p>Oui  SkinAcro™ peut être utilisé sur la plupart des zones du corps, y compris le <strong>visage et le cou</strong>, là où les acrochordons sont souvent les plus visibles. Il est conçu pour être précis et doux, afin de ne pas endommager la peau saine autour.</p>",
+        "gg3xah4JmWT_text": "<p>Un kit SkinAcro™ permet de traiter jusqu’à <strong>40 acrochordons</strong>, grâce aux élastiques de différentes tailles inclus.</p>",
+        "gg4U6QttTNs_text": "<p>Oui, SkinAcro™ est une méthode douce et non invasive. Contrairement aux méthodes de congélation ou de brûlure, il n’endommage pas la peau saine autour.</p>",
+        "ggdz5o8V4rc_text": "<p>Dans de rares cas, il peut falloir appliquer un nouvel élastique. Si après 2 essais l’acrochordon persiste, nous vous conseillons de consulter un dermatologue.</p>"
+      }
+    },
+    "gp_section_582655147412030104": {
+      "type": "gp-section-582655147412030104",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "246284ee26ad5ccfe8821a3d29a052e0186a17951a2475c8b90c1c553fc7fb37_1_1_1_0_",
+        "gg1ZkMMTLig_text": "Une question ?",
+        "ggqj5UdYzvd_text": "<p>Ecrivez nous via le formulaire ci-dessous et nous vous répondrons dans les plus brefs délais.</p>",
+        "gg-FrCKwHF5_text": "<p>NAME</p>",
+        "ggwx348GBeA_placeholder": "Nom",
+        "ggFgZgVugNw_text": "<p>EMAIL</p>",
+        "gg8hpZ50VkN_placeholder": "adresse mail",
+        "ggOnoaKya1M_text": "<p>MESSAGE</p>",
+        "gg5nQgZb4uZ_placeholder": "message",
+        "ggyDitRJkzI_label": "Soumettre ma question"
+      }
+    },
+    "gp_section_582655147412095640": {
+      "type": "gp-section-582655147412095640",
+      "settings": {
+        "section_preload": "false",
+        "checksum": "7e4faa5d7abbb6cb7ba68c6ad36f431549b82f8ee0437c9d9815551a3af4160c_1_1_1_0_",
+        "ggrIAbQJVPg_text": "<p>Livraison gratuite</p>",
+        "gggbYMr-eFo_text": "<p>Paiement 100% sécurisé</p>",
+        "gg6gYjRc-fH_text": "<p>Garantie satisfait ou remboursé 30 jours </p>"
+      }
     },
     "gp_section_582838455709467288": {
+      "type": "gp-section-582838455709467288",
       "settings": {
-        "checksum": "ce83d9ffab484e6cad25184e5f3c9170faa3634d83290eaf579ca2f89770301d_1_1_1_0_"
-      },
-      "type": "gp-section-582838455709467288"
-    },
-    "gp_section_583098329819251544": {
-      "settings": {
-        "checksum": "a958f4d0cd29430aa382b9729faf776764fe89b23d590b7286c515b0137498f4_1_1_1_0_"
-      },
-      "type": "gp-section-583098329819251544"
-    },
-    "gp_section_583545817948750407": {
-      "settings": {
-        "checksum": "11c491909116e5d41b3ad284ea1c7111971f22cf565ae9df0722b0796bb11e7a_1_1_1_0_"
-      },
-      "type": "gp-section-583545817948750407"
+        "section_preload": "false",
+        "checksum": "ce83d9ffab484e6cad25184e5f3c9170faa3634d83290eaf579ca2f89770301d_1_1_1_0_",
+        "ggdIbooI71w_childItem_0": "<p>At vero eos et accusamus et iusto odio</p>",
+        "ggdIbooI71w_childItem_1": "<p>At vero eos et accusamus et iusto odio</p>",
+        "ggdIbooI71w_childItem_2": "<p>At vero eos et accusamus et iusto odio</p>",
+        "ggdIbooI71w_childItem_3": "<p>Reviews (2)</p>",
+        "ggj4s_veI1o_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "ggzmYbwrFVA_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "ggrDscsZe-w_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "ggR4RJ6JHTY_text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+        "ggPx5pIqDDM_text": "<p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound</p>"
+      }
     }
   },
   "order": [
